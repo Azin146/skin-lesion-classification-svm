@@ -76,7 +76,21 @@ skin-lesion-classification-svm/
 
 ---
 
+## 📊 Sample Results
+
+### ROC Curve (HAM10000)
+
+![ROC Curve](results/ham10000/roc_curve.png)
+
+### Confusion Matrix (HAM10000)
+
+![Confusion Matrix](results/ham10000/confusion_matrix.png)
+
+---
+
 ## ⚙️ Installation
 
 ```bash
 pip install -r requirements.txt
+
+
