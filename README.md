@@ -86,6 +86,8 @@ skin-lesion-classification-svm/
 
 ![Confusion Matrix](results/ham10000/confusion_matrix.png)
 
+The model demonstrates strong discriminative power with balanced sensitivity and specificity, though performance degradation under cross-dataset evaluation highlights domain shift challenges.
+
 ---
 
 ## ⚙️ Installation
